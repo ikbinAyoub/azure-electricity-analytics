@@ -79,6 +79,10 @@ Controlling and forecasting cloud costs is essential in any real-world solution.
 
 - **Forecasting & Machine Learning:**  
   Develop predictive models for future electricity prices using machine learning algorithms and historical market data.
+  
+  **Reproducible Infrastructure with Terraform & Flexible Data Sources:**  
+  Use Terraform (Infrastructure as Code) to automate and version-control the deployment of all Azure resources (Function App, Storage, Synapse, SQL, etc.).  
+  Extend the solution to fetch data from various APIs beyond electricity market data, enabling scalable data ingestion, unified storage, and integrated analytics for diverse datasets.
 
 ---
 
